@@ -1,0 +1,9 @@
+discord.py>=2.3
+python-dotenv
+sentence-transformers
+faiss-cpu
+PyPDF2
+python-pptx
+python-docx
+pdfplumber
+groq
