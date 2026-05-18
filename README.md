@@ -62,7 +62,7 @@ source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # 4️⃣ Create a .env file (see next section for required keys)
-cp .env.example .env
+cp .env-sample.txt .env
 # Edit .env with your credentials
 
 # 5️⃣ Run the bot
