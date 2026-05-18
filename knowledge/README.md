@@ -1,0 +1,1 @@
+This is the Directory in which you have to put all the documents you want the bot to read for context. Document types allowed include: pdf, docx, ppt, md and txt.

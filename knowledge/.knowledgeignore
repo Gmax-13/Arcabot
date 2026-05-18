@@ -1,2 +1,5 @@
-# .knowledgeignore – remove PDF ignore to allow PDF processing
-# (empty file means no patterns are ignored)
+List out any document in the knowledge folder which you dont want the Bot to read
+.zip
+archive/
+.rar
+.mp3
